@@ -1,0 +1,1 @@
+export default console.log("我是模块3");
